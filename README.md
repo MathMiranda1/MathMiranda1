@@ -7,7 +7,7 @@ Me chamo Matheus Cardoso de Miranda, tenho 28 anos e sou natural do Rio Grande d
 <p align="left">
   
   [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.cardoso7@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-cardoso-08b032191/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cardoso-08b032191/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mcardosoo1/)
       <a href="https://github.com/MathMiranda1?tab=repositories&sort=stargazers">
         <img 
